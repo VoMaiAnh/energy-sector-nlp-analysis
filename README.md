@@ -1,10 +1,10 @@
 # Master's Thesis Code Repository - TFM Mai Anh Võ
 
-**Author:** Mai Anh Võ
-**Institution:** Complutense University of Madrid
-**Defense Date:** July 2025
-**Language:** Spanish
-**Focus:** Advanced NLP analysis of customer sentiment and topics from Spanish energy companies' Google Play reviews and Twitter data (2023-2024)
+- **Author:** Mai Anh Võ
+- **Institution:** Complutense University of Madrid
+- **Defense Date:** July 2025
+- **Language:** Spanish
+- **Focus:** Advanced NLP analysis of customer sentiment and topics from Spanish energy companies' Google Play reviews and Twitter data (2023-2024)
 
 ## 🎯 Project Overview
 
