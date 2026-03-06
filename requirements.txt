@@ -1,0 +1,21 @@
+# existing
+google-play-scraper
+requests
+apify-client
+pandas
+numpy
+matplotlib
+seaborn
+textblob
+gensim
+nltk
+transformers
+spacy
+wordcloud
+scikit-learn
+pysentimiento
+hdbscan
+bertopic
+beautifulsoup4
+selenium
+playwright
